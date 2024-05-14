@@ -25,6 +25,9 @@ Step5: Execute the python program and record the movements.
 
 ## Program
 ```
+
+#DEVELOPED BY : SANJAI L
+#REGISTER NUMBER : 212223230184
 from robomaster import robot
 import time
 from robomaster import camera
